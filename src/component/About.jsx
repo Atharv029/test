@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div className='container h-full absolute left-0 top-full'>
             <div className="absolute top-[25%] w-[43%] left-[5%] h-[138%] rounded-xl object-fill" id='Abouts'>
-                <img src="src/assets/photo_6253519353194594062_y-removebg-preview (3).png" alt="profile photo" className='bg-[#ebecf1] border rounded-xl h-[89%]' />
+                <img src="https://im.ge/i/photo-6253519353194594062-y-removebg-preview-2.VTvQjThttps://im.ge/i/photo-6253519353194594062-y-removebg-preview-3.VTv1ty" alt="profile photo" className='bg-[#ebecf1] border rounded-xl h-[89%]' />
             </div>
            
             <img src="https://credesign.vercel.app/onePage/onePageOne/img/orangeDot.png" loading='lazy' alt="orange dot" className='logo3' />

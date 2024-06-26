@@ -7,7 +7,7 @@ const Manpage = () => {
 
   return (
     <div className='container h-screen w-full  absolute left-0 top-10 -z-30 bg-[#fff5ea] overflow-hidden' id='home'>
-      <img src="src\assets\photo_6253519353194594062_y-removebg-preview (2).png" alt="" className=' w-[35%] absolute bottom-[0%] left-[65.8%]' />
+      <img src="https://i.im.ge/2024/06/27/VTvQjT.photo-6253519353194594062-y-removebg-preview-2.png" alt="" className=' w-[35%] absolute bottom-[0%] left-[65.8%]' />
       <img src="https://credesign.vercel.app/onePage/onePageOne/img/orangeDot.png" loading='lazy' alt="orang dot" className='logo2' />
       <img src="https://credesign.vercel.app/onePage/onePageOne/img/particleOne.png" loading='lazy' alt="cricle" className='cricle' />
       <h3 className=' absolute top-32 left-32 text-lg font-Jost '>I AM  DEVELOPER</h3>

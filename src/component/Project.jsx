@@ -10,19 +10,19 @@ const Project = () => {
       <div id='hide' className="grid grid-cols-3 gap-28 absolute top-[29.5%] left-[7.5%] w-[85%] h-[50%] cursor-pointer">
         <div className="text-center bg-[#fef3e8] rounded-lg hover:border-[2.5px] border-[#f5b372]">
           <a href="https://atharv029.github.io/spotify-clone/" target='blank'>
-            <img src="src/assets/12505004-d908-4c3f-83fa-eac7bdebcdc4-cover.png" loading='lazy' alt="spotify clone" className="mx-auto w-[100%] h-[80%] object-fill p-4" />
+            <img src="https://im.ge/i/12505004-d908-4c3f-83fa-eac7bdebcdc4-cover.VTvqj6" loading='lazy' alt="spotify clone" className="mx-auto w-[100%] h-[80%] object-fill p-4" />
           </a>
           <h2 className="mt-2 mr-2 text-3xl font-semibold font-Jost">Spotify Clone</h2>
         </div>
         <div className="text-center bg-[#fef3e8] rounded-lg hover:border-[2.5px] border-[#f5b372]">
           <a href="#">
-            <img src="src/assets/portfolio-website-builders.jpg" loading='lazy' alt="Portfolio website" className="mx-auto w-[100%] h-[80%] object-fill p-4" />
+            <img src="https://im.ge/i/portfolio-website-builders.VTv7TK" loading='lazy' alt="Portfolio website" className="mx-auto w-[100%] h-[80%] object-fill p-4" />
           </a>
           <h2 className="mt-2 mr-2 text-2xl font-semibold font-Jost">This Portfolio Website</h2>
         </div>
         <div className="text-center bg-[#fef3e8] rounded-lg hover:border-[2.5px] border-[#f5b372]">
           <a href="https://atharv029.github.io/task/" target='blank'>
-            <img src="src/assets/caremed-free-healthcare-website-templates.jpg" alt="health care" loading='lazy' className="mx-auto w-[100%] h-[80%] object-fill p-4" />
+            <img src="https://im.ge/i/caremed-free-healthcare-website-templates.VTvDU9" alt="health care" loading='lazy' className="mx-auto w-[100%] h-[80%] object-fill p-4" />
           </a>
           <h2 className="mt-2 mr-2 text-2xl font-semibold font-Jost">Health Care Website</h2>
         </div>
