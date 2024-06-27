@@ -12,12 +12,19 @@ const Manpage = () => {
       <img src="https://credesign.vercel.app/onePage/onePageOne/img/particleOne.png" loading='lazy' alt="cricle" className='cricle' />
       <h3 className=' absolute top-32 left-32 text-lg font-Jost '>I AM  DEVELOPER</h3>
       <h1 className='absolute top-52 left-24 text-6xl font-bold font-Jost' id='typing1' >Web <p className=' absolute top-0 left-[120%] text-[#ff6b00]' id='typing'>
+       
+       <p>
+
         <ul className='list'>
           <li> <span>Developer      </span>
           </li>
-          
-          </ul>
-          </p> </h1>
+
+        </ul>
+
+       </p>
+       
+       
+      </p> </h1>
       <p className='absolute top-80 left-24 text-base w-2/4 font-Jost text-[#606060]'>Welcome to my portfolio! I'm a passionate web developer dedicated to creating dynamic and responsive websites that provide seamless user experiences. With expertise in modern web technologies and a keen eye for design. I transform ideas into visually stunning and highly functional digital solutions. Explore my work to see how I can help bring your vision to life.</p>
 
       <a href="https://online.publuu.com/556425/1250886" target='blank'>

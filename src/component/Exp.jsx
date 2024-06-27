@@ -9,13 +9,13 @@ const Exp = () => {
 
       <div className="bd"></div>
 
-      <img src="src/assets/icons8-circle-48.png" alt="dot" loading='lazy' className='w-[23px] absolute top-[31.8%] left-[6.2%]' />
+      <img src="src\icons8-orange-circle-48.png" alt="dot" loading='lazy' className='w-[23px] absolute top-[31.8%] left-[6.2%]' />
       <p className='font-Jost font-[500] text-2xl absolute top-[31.5%] left-[9%]'>Education</p>
 
-      <img src="src/assets/icons8-circle-48.png" alt="dot" loading='lazy' className='w-[23px] absolute top-[57.8%] left-[6.2%]' />
+      <img src="src\icons8-orange-circle-48.png" alt="dot" loading='lazy' className='w-[23px] absolute top-[57.8%] left-[6.2%]' />
       <p className='font-Jost font-[500] text-2xl absolute top-[57.4%] left-[9%]'>Skills</p>
 
-      <img src="src/assets/icons8-circle-48.png" alt="dot" loading='lazy' className='w-[23px] absolute top-[84.8%] left-[6.2%]' />
+      <img src="src\icons8-orange-circle-48.png" alt="dot" loading='lazy' className='w-[23px] absolute top-[84.8%] left-[6.2%]' />
       <p className='font-Jost font-[500] text-2xl absolute top-[84.5%] left-[9%]'>Experience</p>
 
       <div className="cardcon">
