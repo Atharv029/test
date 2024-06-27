@@ -7,12 +7,12 @@ const Exp = () => {
       <h3 className=' absolute top-[6.6%] left-[48.8%] text-lg font-Jost '>My Resume</h3>
       <h3 className=' absolute top-[12.5%] left-[28.3%] text-5xl font-Jost font-bold '>1+ YEARS OF EXPERIENCE</h3>
       <div className="bd"></div>
-      <img src="src\assets\icons8-circle-48.png" alt="dot" loading='lazy' className=' w-[23px] absolute top-[31.8%] left-[6.2%]' />
+      {/* <img src="src\assets\icons8-circle-48.png" alt="dot" loading='lazy' className=' w-[23px] absolute top-[31.8%] left-[6.2%]' />
       <p className=' font-Jost font-[500] text-2xl absolute top-[31.5%] left-[9%]'>Education</p>
       <img src="src\assets\icons8-circle-48.png" alt="dot" loading='lazy' className=' w-[23px] absolute top-[57.8%] left-[6.2%]' />
       <p className=' font-Jost font-[500] text-2xl absolute top-[57.4%] left-[9%]'>Skills</p>
       <img src="src\assets\icons8-circle-48.png" alt="dot" loading='lazy' className=' w-[23px] absolute top-[84.8%] left-[6.2%]' />
-      <p className=' font-Jost font-[500] text-2xl absolute top-[84.5%] left-[9%]'>Experience</p>
+      <p className=' font-Jost font-[500] text-2xl absolute top-[84.5%] left-[9%]'>Experience</p> */}
       <div className="cardcon" >
         <div className=" absolute border rounded-lg  w-[70%] top-[22%] left-[23%] h-[22%] bg-white  " id='hide'>
           <div className="c p-8" >
