@@ -44,10 +44,11 @@ const Exp = () => {
           <p className='font-Jost  absolute text-base top-[60%]  right-[42.8%] text-[#606060]'>Java</p><p className='font-Jost  absolute text-base top-[60%]  right-[15%] text-[#606060]'>80%</p>
           <hr className=" w-[21%] h-[0.7%] bg-gray-200 border-0 dark:bg-gray-700 absolute top-[65%] right-[20%]"></hr>
           <p className='font-Jost  absolute text-base top-[78%]  right-[36%] text-[#606060]'>HTML & CSS</p><p className='font-Jost  absolute text-base top-[78%]  right-[15%] text-[#606060]'>95%</p>
-          <hr className=" w-[15%] h-[0.7%] bg-gray-200 border-0 dark:bg-gray-700 absolute top-[83%] right-[20%]"></hr>
+          
+          <hr className=" w-[15%] h-[0.7%] bg-gray-200 border-0 dark:bg-gray-700 absolute top-[83%] right-[20%]" ></hr>
 
         </div>
-        <div className="line2"></div>
+        <div className="line2" id='hide'></div>
 
         <div className="" >
 
