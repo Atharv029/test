@@ -4,6 +4,7 @@ const Navbar = () => {
   return (
 
     <div className="navbar z-0">
+      <img src="https://i.postimg.cc/PNG83Mq3/photo-6318869767389298229-x-1-removebg-preview.png" alt=""  className=' absolute w-[15%] left-0 m-4'/>
      <a href="#home"><li>Home</li>  </a>
       <a href="#ser">Service</a>
      <a href="https://online.publuu.com/556425/1250886" target='blank'> <li>Resume</li></a> 

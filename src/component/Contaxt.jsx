@@ -23,9 +23,9 @@ const Contaxt = () => {
       </div>
       <div>
         <h3 className='text-white absolute top-[37%] right-[17%] text-xl font-bold font-Jost'>Follow Me On</h3>
-        <a href="https://twitter.com/AtharvChaw78856" target='_blank'><img src="src/assets/5296516_tweet_twitter_twitter logo_icon.svg" loading='lazy' alt="" className='w-9 absolute top-[49.5%] right-[24%]' /></a>
-        <a href="https://www.linkedin.com/in/atharv-chawan-ab01152a7/" target='_blank'><img src="src/assets/5296501_linkedin_network_linkedin logo_icon.svg" loading='lazy' alt="" className="w-9 absolute top-[49.5%] right-[19%]" /></a>
-        <a href="https://wa.me/9892467712" target='_blank'><img src="src/assets/5296520_bubble_chat_mobile_whatsapp_whatsapp logo_icon.svg" alt="" loading='lazy' className="w-9 absolute top-[49.5%] right-[14%]" /></a>
+        <a href="https://twitter.com/AtharvChaw78856" target='_blank'><img src="https://i.postimg.cc/xCKJ4zWt/5296516-tweet-twitter-twitter-logo-icon.png" loading='lazy' alt="" className='w-9 absolute top-[49.5%] right-[24%]' /></a>
+        <a href="https://www.linkedin.com/in/atharv-chawan-ab01152a7/" target='_blank'><img src="https://i.postimg.cc/CxKq9hRj/5296501-linkedin-network-linkedin-logo-icon.png" loading='lazy' alt="" className="w-9 absolute top-[49.5%] right-[19%]" /></a>
+        <a href="https://wa.me/9892467712" target='_blank'><img src="https://i.postimg.cc/hGz7P2bv/5296520-bubble-chat-mobile-whatsapp-whatsapp-logo-icon.png" alt="" loading='lazy' className="w-9 absolute top-[49.5%] right-[14%]" /></a>
       </div>
     </div>
   );

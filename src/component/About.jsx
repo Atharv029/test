@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div className='container h-full absolute left-0 top-full'>
             <div className="absolute top-[25%] w-[43%] left-[5%] h-[138%] rounded-xl object-fill" id='Abouts'>
-                <img src="https://im.ge/i/photo-6253519353194594062-y-removebg-preview-2.VTvQjThttps://im.ge/i/photo-6253519353194594062-y-removebg-preview-3.VTv1ty" alt="profile photo" className='bg-[#ebecf1] border rounded-xl h-[89%]' />
+                <img src="https://i.postimg.cc/dQzYHfqQ/photo-6253519353194594062-y-removebg-preview-3.png" alt="profile photo" className='bg-[#ebecf1] border rounded-xl h-[89%]' />
             </div>
            
             <img src="https://credesign.vercel.app/onePage/onePageOne/img/orangeDot.png" loading='lazy' alt="orange dot" className='logo3' />
@@ -25,13 +25,13 @@ const About = () => {
             </div>
             <div className="advantages">
                 <div className="wait">
-                    <img src="src/assets/approved.png" loading='lazy' alt="tick" className='absolute top-[112%] right-[46.4%] w-[2%]' />
+                    <img src="https://i.postimg.cc/DwvYBQby/approved.png" loading='lazy' alt="tick" className='absolute top-[112%] right-[46.4%] w-[2%]' />
                     <p className="absolute top-[112.3%] right-[29.4%] font-[1rem] font-Jost">Work simple and clean design</p>
-                    <img src="src/assets/approved.png" loading='lazy' alt="tick" className='absolute top-[120%] right-[46.4%] w-[2%]' />
+                    <img src="https://i.postimg.cc/DwvYBQby/approved.png" loading='lazy' alt="tick" className='absolute top-[120%] right-[46.4%] w-[2%]' />
                     <p className="absolute top-[120.3%] right-[27%] font-[1rem] font-Jost">New idea and user friendly design</p>
-                    <img src="src/assets/approved.png" loading='lazy' alt="tick" className='absolute top-[112%] right-[22.4%] w-[2%]' />
+                    <img src="https://i.postimg.cc/DwvYBQby/approved.png" loading='lazy' alt="tick" className='absolute top-[112%] right-[22.4%] w-[2%]' />
                     <p className="absolute top-[120.3%] right-[11.2%] font-[1rem] font-Jost">Unlimited Revisions</p>
-                    <img src="src/assets/approved.png" loading='lazy' alt="tick" className='absolute top-[120%] right-[22.4%] w-[2%]' />
+                    <img src="https://i.postimg.cc/DwvYBQby/approved.png" loading='lazy' alt="tick" className='absolute top-[120%] right-[22.4%] w-[2%]' />
                     <p className="absolute top-[112.3%] right-[9.8%] font-[1rem] font-Jost">Web Design Full stack</p>
                 </div>
                 <a href="https://online.publuu.com/556425/1250886" target="_blank">
