@@ -52,6 +52,7 @@ position: absolute;
     position: absolute;
     top: 23%;
     left: 7.5%;
+    width: 1.4%;
 }
 .cricle{
     width: 5.5%;
@@ -78,6 +79,7 @@ position: absolute;
     position: absolute;
     top: 32%;
     left: 51%;
+    width: 1.4%;
 }
 
 .pro{
@@ -122,6 +124,17 @@ position: absolute;
     animation: appear linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40% ;
+}
+
+.line3{
+    position: absolute;
+    border-left: 2px solid #929292;
+   
+    height: 35vh;
+    width: 25%;
+    left: 45%;
+    top: 5%;
+    opacity: 1;
 }
 
 @keyframes appear{
