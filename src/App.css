@@ -111,12 +111,21 @@ position: absolute;
 
 .line2{
     position: absolute;
-    border-left: 2px solid #929292;
+    border-left: 2px solid #e7e5e5;
    
     height: 35vh;
     width: 25%;
     left: 54.5%;
     top: 50%;
+    opacity: 0.1;
+}
+.line4{
+    border-left: 2px solid #929292;
+   position: absolute;   
+   top: 8%;
+   left:45%;
+   height: 36vh;
+    width: 25%;
     opacity: 0.2;
 }
 
@@ -124,17 +133,6 @@ position: absolute;
     animation: appear linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40% ;
-}
-
-.line3{
-    position: absolute;
-    border-left: 2px solid #929292;
-   
-    height: 35vh;
-    width: 25%;
-    left: 45%;
-    top: 5%;
-    opacity: 1;
 }
 
 @keyframes appear{

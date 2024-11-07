@@ -11,6 +11,7 @@ export default {
         '9xl': '104rem',
       },
     },
+    
   },
   plugins: [],
 }
